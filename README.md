@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Vera</h1>
 <h3 align="center">A geek and developer from Perú</h3>
 
-- 👨‍💻 All of my projects are available at [https://migueek.netlify.app/](https://migueek.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://veramiguel.vercel.app/](https://migueek.netlify.app/)
 
 - 💬 Ask me about **express.js, JavaScript.js and React.js**
 
